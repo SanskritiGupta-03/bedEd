@@ -1,4 +1,4 @@
-https://github.com/JyothsnaAshok/Sexedify-Discuss
+
 
 This github contains the code for the discussion portal.
 
