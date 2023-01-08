@@ -6,17 +6,13 @@ export default function AboutUs() {
     <div className={styles.AboutUs} id="AboutUs">
       <h1 className={styles.Title}>About bedEd</h1>
       <p className={styles.description}>
-        bedEd is your all in one portal to decipher your own body, unravel
-        the mysteries of sexualities and unveil what has been unspoken in the
-        society for years now. One’s body is where all energy and power reside.
-        Hence, it is extremely important to understand the intricacies of human
-        anatomy and how to nourish and preserve it. Our website helps build that
-        community who will aid one another in this learning process as well as
-        hone their personal skills in various subjects (menstrual health,
-        contraceptives, body ownership, LGBTQ+ etc.) through quizzes, modules and
-        the EddieBot! In conservative countries, if parents & educational
-        institutions are finding it awkward to teach their children, our portal
-        serves as the perfect medium and voila- solves the issue!
+        At bedEd, the cornerstone of our philosophy is considering sexual well-being from a holistic perspective that includes sexual health as an integral part of mind and body wellness. We believe that in order for you to have the best relationship with your sexuality--and therefore, the best sex possible—we need to make sure your mind, body, and consciousness are in alignment.
+        
+        We want to live in a culture that is actively removing the shame, fear, trauma, and taboos around sex and normalizing an integrative, expansive approach to human sexuality, because pleasure and good sexual health are essential to not only surviving, but thriving. 
+
+To that end, our goal is to provide you with a safe, fun, inclusive, and welcoming place that offers comprehensive sex education with practical answers, real “sexperts,” and humor.
+
+Come on in!
       </p>
     </div>
   );
