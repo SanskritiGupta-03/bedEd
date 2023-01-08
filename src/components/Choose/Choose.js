@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './Choose.module.css';
 import one from './[removal 1.png';
-import two from './sexedify3 (1) 1.png';
-import three from './sexedify4 1.png';
+import two from './beded1.png';
+import three from './beded2.png';
 import { Link } from 'react-router-dom';
 
 export default function Choose() {
