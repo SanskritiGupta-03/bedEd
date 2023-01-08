@@ -14,7 +14,7 @@ export default function AboutUs() {
         community who will aid one another in this learning process as well as
         hone their personal skills in various subjects (menstrual health,
         contraceptives, body ownership, LGBTQ+ etc.) through quizzes, modules and
-        the EdifyBot! In conservative countries, if parents & educational
+        the EddieBot! In conservative countries, if parents & educational
         institutions are finding it awkward to teach their children, our portal
         serves as the perfect medium and voila- solves the issue!
       </p>
